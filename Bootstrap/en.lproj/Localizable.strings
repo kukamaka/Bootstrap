@@ -1,73 +1,72 @@
-"Settings" = "Settings";
-"Tweak Enable" = "Tweak Enable";
+"Settings" = "Настройки";
+"Tweak Enable" = "Активиране на Разработка";
 "OpenSSH" = "OpenSSH";
-"Respring" = "Respring";
-"Rebuild Apps" = "Rebuild Apps";
-"Rebuild Icon Cache" = "Rebuild Icon Cache";
-"Reinstall Sileo & Zebra" = "Reinstall Sileo & Zebra";
-"Uninstall" = "Uninstall";
-"Credits" = "Credits";
-"New Version Available" = "New Version Available";
-"Bootstrapped" = "Bootstrapped";
-"Update" = "Update";
-"Install" = "Install";
-"Unsupported" = "Unsupported";
-"App List" = "App List";
+"Respring" = "Респринг";
+"Rebuild Apps" = "Възстанови Приложения";
+"Rebuild Icon Cache" = "Възстанови Иконов Кеш";
+"Reinstall Sileo & Zebra" = "Преинсталирайте Sileo и Zebra";
+"Uninstall" = "Деинсталирайте";
+"Credits" = "Кредити";
+"New Version Available" = "Налична е Нова Версия";
+"Bootstrapped" = "Bootstrap-нато";
+"Update" = "Актуализирайте";
+"Install" = "Инсталирайте";
+"Unsupported" = "Неподдържано";
+"App List" = "Списък с Приложения";
 
 
-"OK" = "OK";
-"Error" = "Error";
-"Warning" = "Warning";
-"Applying" = "Applying";
-"Cancel" = "Cancel";
-"Update" = "Update";
-"Bootstrapping" = "Bootstrapping";
-"Uninstall" = "Uninstall";
-"Uninstalling" = "Uninstalling";
-"bootstrap uninstalled" = "bootstrap uninstalled";
+"OK" = "Добре";
+"Error" = "Грешка";
+"Warning" = "Внимание";
+"Applying" = "Прилагане";
+"Cancel" = "Отказ";
+"Update" = "Актуализирайте";
+"Bootstrapping" = "Bootstrap-ване";
+"Uninstall" = "Деинсталирайте";
+"Uninstalling" = "Деинсталиране";
+"bootstrap uninstalled" = "bootstrap деинсталиран";
 
-"Enable Tweak for App" = "Enable Tweak for App";
-"name or identifier" = "name or identifier";
+"Enable Tweak for App" = "Активирайте Разработка за Приложение";
+"name or identifier" = "име или индификационнен номер";
 
-"Server Not Running" = "Server Not Running";
+"Server Not Running" = "Сървърът Не Работи";
 
-"for unknown reasons the bootstrap server is not running, the only thing we can do is to restart it now." = "for unknown reasons the bootstrap server is not running, the only thing we can do is to restart it now.";
+"for unknown reasons the bootstrap server is not running, the only thing we can do is to restart it now." = "по неизвестни причини bootstrap сървърът не работи, единственото нещо, което можем да направим е да го рестартираме сега.";
 
-"Restart Server" = "Restart Server";
-"bootstrap server restart successful" = "bootstrap server restart successful";
+"Restart Server" = "Рестартирайте Сървъра";
+"bootstrap server restart successful" = "рестартирането на bootstrap сървъра е успешно";
 
-"Rebuilding" = "Rebuilding";
-"Don't exit Bootstrap app until show the lock screen" = "Don't exit Bootstrap app until show the lock screen";
+"Rebuilding" = "Възстановяване";
+"Don't exit Bootstrap app until show the lock screen" = "Не излизайте от приложението Bootstrap, докато не се покаже заключения екран";
 
-"bootstrap installed" = "bootstrap installed";
-"bootstrap not installed" = "bootstrap not installed";
-"system bootstrapped" = "system bootstrapped";
-"system not bootstrapped" = "system not bootstrapped";
-"bootstrap server check successful" = "bootstrap server check successful";
+"bootstrap installed" = "bootstrap инсталиран";
+"bootstrap not installed" = "bootstrap не е инсталиран";
+"system bootstrapped" = "системата е bootstrap-ната";
+"system not bootstrapped" = "системата не е bootstrap-ната";
+"bootstrap server check successful" = "проверката на bootstrap сървъра е успешна";
 
-"It seems that you have the Filza app installed, which may be detected as jailbroken. You can enable Tweak for it to hide it." = "It seems that you have the Filza app installed, which may be detected as jailbroken. You can enable Tweak for it to hide it.";
+"It seems that you have the Filza app installed, which may be detected as jailbroken. You can enable Tweak for it to hide it." = "Изглежда, че имате инсталирано приложението Filza, което може да бъде открито като джейлбрейкнато. Можете да активирате Разработка за него, за да го скриете.";
 
-"Status: Rebuilding Apps" = "Status: Rebuilding Apps";
-"Status: Reinstalling Sileo" = "Status: Reinstalling Sileo";
-"Status: Reinstalling Zebra" = "Status: Reinstalling Zebra";
-"Sileo and Zebra reinstalled!" = "Sileo and Zebra reinstalled!";
-"Status: Rebuilding Icon Cache" = "Status: Rebuilding Icon Cache";
+"Status: Rebuilding Apps" = "Статус: Възстановяване на Приложения ";
+"Status: Reinstalling Sileo" = "Статус: Преинсталиране на Sileo";
+"Status: Reinstalling Zebra" = "Статус: Преинсталиране на Zebra";
+"Sileo and Zebra reinstalled!" = "Sileo и Zebra преинсталирани!";
+"Status: Rebuilding Icon Cache" = "статус: Възстановяване на Иконов Кеш";
 
-"openssh package is not installed" = "openssh package is not installed";
+"openssh package is not installed" = "openssh пакет не е инсталиран";
 
-"Reboot Device" = "Reboot Device";
-"The current bootstrapped version is inconsistent with the Bootstrap app version, and you need to reboot the device to update it." = "The current bootstrapped version is inconsistent with the Bootstrap app version, and you need to reboot the device to update it.";
+"Reboot Device" = "Рестартирайте Устройството";
+"The current bootstrapped version is inconsistent with the Bootstrap app version, and you need to reboot the device to update it." = "Текущата bootstrap-ната версия не е съвместима с версията на приложението Bootstrap и трябва да рестартирате устройството, за да го актуализирате.";
 
-"Your trollstore version is too old, Bootstrap only supports trollstore>=2.0, you have to update your trollstore then reinstall Bootstrap app." = "Your trollstore version is too old, Bootstrap only supports trollstore>=2.0, you have to update your trollstore then reinstall Bootstrap app.";
+"Your trollstore version is too old, Bootstrap only supports trollstore>=2.0, you have to update your trollstore then reinstall Bootstrap app." = "Вашата версия на trollstore е твърде стара, Bootstrap поддържа само trollstore>=2.0, трябва да актуализирате вашият trollstore и след това да инсталирате отново приложението Bootstrap.";
 
-"Your device does not seem to have developer mode enabled.\n\nPlease enable developer mode and reboot your device." = "Your device does not seem to have developer mode enabled.\n\nPlease enable developer mode and reboot your device.";
+"Your device does not seem to have developer mode enabled.\n\nPlease enable developer mode and reboot your device." = "Вашето устройство изглежда няма активиран режим за разработчици.\n\nМоля, активирайте режима за разработчици и рестартирайте устройството си.";
 
-"roothide dopamine has been installed on this device, now install this bootstrap may break it!" = "roothide dopamine has been installed on this device, now install this bootstrap may break it!";
+"roothide dopamine has been installed on this device, now install this bootstrap may break it!" = "roothide dopamine е инсталиран на това устройство, сега инсталирайте този bootstrap може да го развали!";
 
-"You have installed an old beta version, please disable all app tweaks and reboot the device to uninstall it so that you can install the new version bootstrap." = "You have installed an old beta version, please disable all app tweaks and reboot the device to uninstall it so that you can install the new version bootstrap.";
+"You have installed an old beta version, please disable all app tweaks and reboot the device to uninstall it so that you can install the new version bootstrap." = "Инсталирали сте стара бета версия, моля, деактивирайте всички разработки на приложенията и рестартирайте устройството, за да го деинсталирате, за да можете да инсталирате новата версия за стартиране.";
 
-"openssh launch successful" = "openssh launch successful";
-"respring now..." = "respring now...";
+"openssh launch successful" = "openssh стартира успешно";
+"respring now..." = "респринг сега...";
 
-"Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling." = "Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling.";
-
+"Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling." = "Сигурни ли сте, че искате да деинсталирате bootstrap?\n\n Моля, уверете се, че сте деактивирали разработките за всички приложения, преди да деинсталирате.";
